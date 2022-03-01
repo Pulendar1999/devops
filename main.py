@@ -1,0 +1,1 @@
+weight =intput (int("weight :"))
